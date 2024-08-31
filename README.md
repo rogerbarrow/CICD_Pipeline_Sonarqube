@@ -11,3 +11,4 @@ Step 2. we will create 3 Ec2 Instance for
 1.Jenkins Server
 2.Sonarqube Server
 3.Docker 
+![image](https://github.com/user-attachments/assets/2b080e77-067a-41a3-9d2a-388ca236ae90)
