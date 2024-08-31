@@ -38,6 +38,9 @@ Next we Login to the jenkin server
 Next We need to create a Pipeline
 ![image](https://github.com/user-attachments/assets/abe4f324-9b59-4f68-98f1-ace9f7743358)
 
+![image](https://github.com/user-attachments/assets/401794d3-df93-4936-a18a-ab0fa90b1a91)
+
+
 
 
 
