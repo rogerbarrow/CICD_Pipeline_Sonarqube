@@ -29,6 +29,7 @@ Next we will install jenkins
 
 ![image](https://github.com/user-attachments/assets/bb8d7c31-a9f5-426b-af9a-e282d677d647)
 step 7 We need to open port 8080 to allow access into our jenkins server 
+![image](https://github.com/user-attachments/assets/cd892293-6904-4f8e-aa12-34e5b79433e3)
 
 
 
