@@ -18,5 +18,8 @@ Step 3. SSH into your Jenkins Server using the public IP
 ![image](https://github.com/user-attachments/assets/a4f3eb62-69cc-4c2e-8f1a-6f7df9526bef)
 ! We will get a permission denial Error because SSH is too open
 ![image](https://github.com/user-attachments/assets/042ee52a-ec0e-4d80-8c21-45fe2d29a34d)
+you will need to change the permission using the chmod CMD
+![image](https://github.com/user-attachments/assets/6d344376-1c3b-4857-9a3c-1a8300ee16e8)
+
 
 
