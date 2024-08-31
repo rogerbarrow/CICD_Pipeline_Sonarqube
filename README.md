@@ -41,6 +41,9 @@ Next We need to create a Pipeline
 ![image](https://github.com/user-attachments/assets/401794d3-df93-4936-a18a-ab0fa90b1a91)
 !next we will create a sonarqube server 
 
+![image](https://github.com/user-attachments/assets/7ed79b46-20c2-4560-b0fa-0bfa0089ffb1)
+
+
 
 
 
