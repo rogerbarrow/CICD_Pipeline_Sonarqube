@@ -24,6 +24,8 @@ we are now login to the server
 ![image](https://github.com/user-attachments/assets/036f4186-cd54-4ff0-a810-0abb79edcfa6)
 we need to update the packages
 ![image](https://github.com/user-attachments/assets/1bdb2366-5a59-41a8-bc6d-7167392d1130)
+Next we will install jenkins
+![image](https://github.com/user-attachments/assets/2355c667-5fc0-4c0c-a79e-4af5095ff450)
 
 
 
