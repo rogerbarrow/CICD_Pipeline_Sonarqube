@@ -22,6 +22,8 @@ you will need to change the permission using the chmod CMD
 ![image](https://github.com/user-attachments/assets/6d344376-1c3b-4857-9a3c-1a8300ee16e8)
 we are now login to the server
 ![image](https://github.com/user-attachments/assets/036f4186-cd54-4ff0-a810-0abb79edcfa6)
+we need to update the packages
+![image](https://github.com/user-attachments/assets/1bdb2366-5a59-41a8-bc6d-7167392d1130)
 
 
 
