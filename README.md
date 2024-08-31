@@ -12,3 +12,7 @@ Step 2. we will create 3 Ec2 Instance for
 2.Sonarqube Server
 3.Docker 
 ![image](https://github.com/user-attachments/assets/2b080e77-067a-41a3-9d2a-388ca236ae90)
+
+Step 3. SSH into your Jenkins Server using the public IP
+![image](https://github.com/user-attachments/assets/fc75643d-723d-413b-8016-004692b0957e)
+
